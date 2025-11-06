@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">KubeDroid</string>
+    <string name="clusters">Clusters</string>
+    <string name="workloads">Workloads</string>
+    <string name="network">Network</string>
+    <string name="storage">Storage</string>
+    <string name="config">Config</string>
+    <string name="namespaces">Namespaces</string>
+    <string name="pods">Pods</string>
+    <string name="deployments">Deployments</string>
+    <string name="services">Services</string>
+    <string name="add_cluster">Add Cluster</string>
+    <string name="cluster_name">Cluster Name</string>
+    <string name="server_url">Server URL</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="logs">Logs</string>
+    <string name="describe">Describe</string>
+    <string name="delete">Delete</string>
+    <string name="refresh">Refresh</string>
+    <string name="search">Search</string>
+    <string name="no_clusters">No clusters configured</string>
+    <string name="add_cluster_description">Add a cluster to get started</string>
+</resources>
